@@ -1,6 +1,9 @@
 - id: get-started
   translation: "Get Started"
 
+- id: go-to-docs
+  translation: "View all Notes"
+
 - id: on-this-page
   translation: "On this page"
 

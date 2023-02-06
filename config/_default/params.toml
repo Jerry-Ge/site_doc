@@ -1,13 +1,13 @@
 # Meta Data for SEO
 
 ## Homepage
-title = "Doks"
+title = "Jerry's Notes"
 titleSeparator = "-"
-titleAddition = "Modern Documentation Theme"
-description = "Doks is a Hugo theme for building secure, fast, and SEO-ready documentation websites, which you can easily update and customize."
+titleAddition = "Jerry Ge's personal public notes."
+description = "Jerry Ge's personal public notes."
 
 ## Documentation
-# docsVersion = "0.3"
+# docsVersion = "0.1"
 
 ## Open Graph
 images = ["doks.png"]
